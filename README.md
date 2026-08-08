@@ -74,8 +74,7 @@ Movie data sourced from **TMDB** and distributed via **Kaggle** under the [Open 
 - Power Query (data cleaning)
 - DAX (ROI, Budget Tier, Company Type measures and calculated columns)
 
-## 📎 File
-   [World_Champs_BCN_26_-_Round_3.pbix](World_Champs_BCN_26_-_Round_3.pbix) 
+
 
 ---
 
