@@ -23,19 +23,19 @@ What actually drives a movie's financial success? Using a dataset of 85,000+ mov
 ## 🖼️ Dashboard Preview
 
 ### Page 1 — Overview & Key Takeaway
-![Page 1](images/page1.png)
+![Page 1](page1.png)
 
 ### Page 2 — Bigger Budgets Don't Guarantee Bigger Wins
-![Page 2](images/page2.png)
+![Page 2](page2.png)
 
 ### Page 3 — Genre Is the Real Driver of Success
-![Page 3](images/page3.png)
+![Page 3](page3.png)
 
 ### Page 4 — Is It Really Genre — or Just Big Studios?
-![Page 4](images/page4.png)
+![Page 4](page4.png)
 
 ### Page 5 — The Takeaway
-![Page 5](images/page5.png)
+![Page 5](page5.png)
 
 ## 🧹 Methodology
 
